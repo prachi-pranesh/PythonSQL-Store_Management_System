@@ -129,7 +129,7 @@ def bill():
     t_date=datetime.date.today()
     t_time=datetime.datetime.now()
     print("="*139)
-    txt=["PRACHI'S HOME STORE","ADDRESS: Sector 20,NOIDA","PHONE NO. :9975465434"] 
+    txt=["PRACHI'S HOME STORE","ADDRESS: Sector 20,NOIDA","PHONE NO. :999999999"] 
     print()
     for i in txt: 
         print(i.center(140)) 
